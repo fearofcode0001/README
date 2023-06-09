@@ -7,7 +7,7 @@ yarn add axios<br>
 yarn add react-router-dom<br>
 yarn add styled-components<br>
 yarn add react-daum-postcode<br>
-//관리자 페이지 차트
+//관리자 페이지 차트<br>
 yarn add @nivo/core  @nivo/bar<br>
 
 #### yarn 오류시<br>
