@@ -11,6 +11,7 @@ yarn add react-daum-postcode<br>
 yarn add @nivo/core  @nivo/bar<br>
 //게시판업로드<br>
 yarn add @ckeditor/ckeditor5-build-classic<br>
+yarn add @ckeditor/ckeditor5-react<br>
 
 #### yarn 오류시<br>
 yarn add global react-scripts<br>
