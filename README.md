@@ -12,6 +12,8 @@ yarn add @nivo/core  @nivo/bar<br>
 //게시판업로드<br>
 yarn add @ckeditor/ckeditor5-build-classic<br>
 yarn add @ckeditor/ckeditor5-react<br>
+//게시판 이미지 삽입<br>
+yarn add @ckeditor/ckeditor5-image<br>
 //FAQ아코디언<br>
 yarn add @szhsin/react-accordion<br>
 yarn add react-icons<br>
