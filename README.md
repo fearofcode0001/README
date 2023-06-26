@@ -17,6 +17,8 @@ yarn add @ckeditor/ckeditor5-image<br>
 //FAQ아코디언<br>
 yarn add @szhsin/react-accordion<br>
 yarn add react-icons<br>
+//파이어베이스<br>
+npm install firebase
 
 #### yarn 오류시<br>
 yarn add global react-scripts<br>
